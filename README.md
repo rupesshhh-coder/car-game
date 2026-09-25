@@ -21,10 +21,6 @@ A simple browser-based car racing game built with **HTML, CSS and JavaScript**.
 * CSS3
 * JavaScript
 
-### 📸 Preview
-
-![Car Game](bg.png)
-
 ### ▶️ Run Locally
 
 Open `index.html` in any modern web browser.
