@@ -4,7 +4,7 @@ A simple browser-based car racing game built with **HTML, CSS and JavaScript**.
 
 ### 🎮 Live Demo
 
-🔗 **[Play Car Game](YOUR_LIVE_LINK_HERE)**
+🔗 **[Play Car Game](https://rupesshhh-coder.github.io/car-game/)**
 
 ### ✨ Features
 
@@ -33,4 +33,4 @@ Open `index.html` in any modern web browser.
 
 **Rupesh Ghadge**
 
-Java Full Stack Developer | Pune, India
+Java Full Stack Developer
